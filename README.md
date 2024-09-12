@@ -33,6 +33,13 @@
 <a href="https://discord.gg/dracula69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dracula69" height="50" width="50" /></a>
 </p>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
