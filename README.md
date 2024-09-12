@@ -8,11 +8,13 @@
 
 <h1 align="center">Hi 👋, I'm Chanaka Rajapaksha</h1>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
 </p>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🌱 I’m currently learning **Next.js & Nest.js**
 
@@ -25,6 +27,15 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GwZ1ybP0V1bVKyPYu8VQOT6wtCEDEcaz/view?usp=drive_link](https://drive.google.com/file/d/1GwZ1ybP0V1bVKyPYu8VQOT6wtCEDEcaz/view?usp=drive_link)
 
 - ⚡ Fun fact **"Code compiles faster when I'm wearing my lucky socks 🧦"**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  </td>
+</tr>
+</table>
 
 ---
 <h3 align="center">My Statistics:</h3>
