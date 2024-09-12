@@ -7,6 +7,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Chanaka Rajapaksha</h1>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+</p>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 ---
