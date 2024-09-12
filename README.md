@@ -27,6 +27,7 @@
 - ⚡ Fun fact **"Code compiles faster when I'm wearing my lucky socks 🧦"**
 
 ---
+<h3 align="center">My Statistics:</h3>
 
 <p align="center">
   <!--- stats (start) -->
