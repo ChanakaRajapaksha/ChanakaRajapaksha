@@ -21,13 +21,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/dev. to chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to chanakarajapaksha" height="30" width="50" /></a>
-<a href="https://linkedin.com/in/chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanakarajapaksha" height="30" width="50" /></a>
-<a href="https://kaggle.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rcp rajapaksha" height="30" width="50" /></a>
-<a href="https://fb.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rcp rajapaksha" height="30" width="50" /></a>
-<a href="https://instagram.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rcp rajapaksha" height="30" width="50" /></a>
-<a href="https://www.youtube.com/c/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rcp rajapaksha" height="30" width="50" /></a>
-<a href="https://discord.gg/dracula69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dracula69" height="30" width="50" /></a>
+<a href="https://dev.to/dev. to chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to chanakarajapaksha" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanakarajapaksha" height="50" width="50" /></a>
+<a href="https://kaggle.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rcp rajapaksha" height="50" width="50" /></a>
+<a href="https://fb.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rcp rajapaksha" height="50" width="50" /></a>
+<a href="https://instagram.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rcp rajapaksha" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rcp rajapaksha" height="50" width="50" /></a>
+<a href="https://discord.gg/dracula69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dracula69" height="50" width="50" /></a>
 </p>
 
 ---
