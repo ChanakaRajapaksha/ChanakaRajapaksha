@@ -15,10 +15,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GwZ1ybP0V1bVKyPYu8VQOT6wtCEDEcaz/view?usp=drive_link](https://drive.google.com/file/d/1GwZ1ybP0V1bVKyPYu8VQOT6wtCEDEcaz/view?usp=drive_link)
 
-- ⚡ Fun fact **"Code compiles faster when I'm wearing my lucky socks 🧦."**
+- ⚡ Fun fact **"Code compiles faster when I'm wearing my lucky socks 🧦"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/dev. to chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to chanakarajapaksha" height="30" width="50" /></a>
 <a href="https://linkedin.com/in/chanakarajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanakarajapaksha" height="30" width="50" /></a>
 <a href="https://kaggle.com/rcp rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rcp rajapaksha" height="30" width="50" /></a>
